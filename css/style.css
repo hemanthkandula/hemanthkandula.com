@@ -1193,6 +1193,10 @@ h2.menu-item:after {
     color: #666;
 }
 
+.exp .hgroup h3 span {
+    color: #777;
+}
+
 .exp .hgroup h5 {
     font-size: 14px;
     font-weight: 400;
