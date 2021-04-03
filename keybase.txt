@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hemanthkandula
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hemanthkandula.com
+  * I am hemanthkandula (https://keybase.io/hemanthkandula) on keybase.
+  * I have a public key ASBlyxhOsaH1MS_9_6zGNRdgqPEGcIuVhAdjx-2MRaiA5go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012065cb184eb1a1f5312ffdffacc6351760a8f106708b95840763c7ed8c45a880e60a",
+      "host": "keybase.io",
+      "kid": "012065cb184eb1a1f5312ffdffacc6351760a8f106708b95840763c7ed8c45a880e60a",
+      "uid": "fc563430baf015b86a7ce842fdd47919",
+      "username": "hemanthkandula"
+    },
+    "merkle_root": {
+      "ctime": 1617464083,
+      "hash": "3bce22541fd660c168b0907c2b30f966b455742d3b4c8cbeca5a618222e123ab180f8c211c6d3b3a959929cec7277304e0e13da005517c3b5da8eed285083ba1",
+      "hash_meta": "fb12b7bc44532864df0bf8fadae76f00acad3e6ac6d67d8cae57beef44f2b27a",
+      "seqno": 19538705
+    },
+    "service": {
+      "entropy": "feeE4oU3iMgf9Qs+T+EUSPMP",
+      "hostname": "hemanthkandula.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1617464121,
+  "expire_in": 504576000,
+  "prev": "20bb65cc82edd43944076bda9fe343e25f3c175b8052ac98151aafb9482444f5",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZcsYTrGh9TEv/f+sxjUXYKjxBnCLlYQHY8ftjEWogOYKp3BheWxvYWTESpcCCcQgILtlzILt1DlEB2van+ND4l88F1uAUqyYFRqvuUgkRPXEIGIOMaLrED7c3VVH24xBHtgSIi2IWpX9HyWoD+pZcVwKAgHCo3NpZ8RAL7infJRAHL1bGSEKyKMV10PezZBTSIpC5bper1QcykSsSuXYUt+phiaQ2Sa81a4JChoTXn+KkBm95ZHJxaacDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF/6pW2C4oZjyxYK6kYTsK4TUVjrFSCLJCFTLAEcvftYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hemanthkandula
+
+==================================================================
