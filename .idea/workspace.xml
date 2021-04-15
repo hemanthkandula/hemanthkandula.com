@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb5fae7-2c9b-45bd-bc01-0cdac8853cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/Sperm DNA fragmentation and HBA assay scores.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/embryo-devices-paper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/embryo-ivf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/loc-ova.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/research/HIGHEST-IMPLANTATION-POTENTIAL_hemanth-.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/research/dl-embryo-oocyte-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/research/dl-smartphone-embryo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/docs/ASRM poster - oocyte.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/docs/ASRM poster smartphone-based system.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/research/MDnets.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/portfolio/research" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/docs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -53,11 +53,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\heman\WebstormProjects\hemanthkandula.github.io\projects\docs" />
+      <recent name="C:\Users\heman\WebstormProjects\hemanthkandula.github.io\images\portfolio\research" />
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\images\portfolio\research" />
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\docs" />
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\icons\docker" />
-      <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io" />
-      <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\images\portfolio\web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\docs" />
