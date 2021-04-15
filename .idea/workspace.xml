@@ -2,13 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb5fae7-2c9b-45bd-bc01-0cdac8853cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/Drone_RL_Domain_adaptation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/MDnets.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/SPyDERMAN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/high_vision.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/research/writing robot.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/web/shafieelab.bwh.harvard.edu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/android/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/android/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/angular/angular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/angular/angular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/aws/Amazon_Web_Services_Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/aws/amazonaws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/babel/babel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/babel/babel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/bootstrap/bootstrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/bootstrap/bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/c#/c#.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/c#/c#.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/c++/c++.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/c++/c++.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/c/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/c/c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/clojure/clojure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/clojure/clojure.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/css/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/css/css.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/dart/dart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/dart/dart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/docker/docker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/docker/docker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/firebase/firebase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/firebase/firebase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/flutter/flutter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/flutter/flutter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/gatsby/gatsby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/gatsby/gatsby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/git-scm/git-scm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/git-scm/git-scm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/go/go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/go/go.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/google-docs/google-docs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/google-drive/google-drive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/google-drive/google-drive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/google-sheet/google-sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/google-slides/google-slides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/graphql/graphql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/graphql/graphql.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/hadoop/hadoop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/hadoop/hadoop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/html/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/html/html.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/java/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/java/java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/javascript/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/javascript/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/kaafka/kaafka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/kaafka/kaafka.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/kotlin/kotlin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/kotlin/kotlin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/material-ui/material-ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/material-ui/material-ui.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/materialize/materialize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/materialize/materialize.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/nginx/nginx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/nginx/nginx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/node/node.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/node/node.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/python/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/python/python.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/pytorch/pytorch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/pytorch/pytorch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/rabbitmq/rabbitmq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/rabbitmq/rabbitmq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/react/react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/react/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/redux/redux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/redux/redux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ruby/ruby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/ruby/ruby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/sass/sass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/sass/sass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/spring/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/spring/spring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/svelte/svelte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/svelte/svelte.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/swift/swift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/swift/swift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/tensorflow/tensorflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/tensorflow/tensorflow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/typescript/typescript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/typescript/typescript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/vue/vue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/vue/vue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/webpack/webpack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/webpack/webpack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/xamarin/xamarin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/xamarin/xamarin.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Resume_Hemanth_Kandula.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Resume_Hemanth_Kandula.pdf" afterDir="false" />
@@ -47,19 +131,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/portfolio/research" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\images\portfolio\research" />
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\docs" />
+      <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\icons\docker" />
+      <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io" />
+      <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\images\portfolio\research" />
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\images\portfolio\web" />
-      <recent name="C:\Users\shafi\PycharmProjects\hemanthkandula.github.io\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shafi\WebstormProjects\hemanthkandula.github.io\docs" />
@@ -74,7 +160,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616786436181</updated>
       <workItem from="1616786439804" duration="9231000" />
-      <workItem from="1618440482090" duration="10148000" />
+      <workItem from="1618440482090" duration="12554000" />
+      <workItem from="1618460317062" duration="936000" />
     </task>
     <servers />
   </component>
