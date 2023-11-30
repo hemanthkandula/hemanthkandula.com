@@ -65,9 +65,10 @@
 
     });
 
-    // Typing Animation (Typed.js)
+    // Typing Animation (Typed.js)         strings: ["AI Researcher", "Mobile/Web App Developer"],
+
     $('#element').typed({
-        strings: ["AI Researcher", "Mobile/Web App Developer"],
+        strings: ["AI Researcher"],
         typeSpeed: -50,
         loop: true,
         startDelay: 500,
